@@ -1,3 +1,12 @@
+# =========================================================
+# Cloudflare DDNS Update Script for MikroTik
+# Author: Alireza Kazerouni
+# GitHub: https://github.com/alireza-k7
+# LinkedIn: https:/www.linkedin.com/in/alirezakazerouni
+# Email: alirezakazerouni@gmail.com
+# Version: 1.0
+# =========================================================
+
 :local cloudflareZoneId "ZONE_ID"
 :local cloudflareAuthToken "API_TOKEN"
 :local cloudflareRecordId "Your_record_ID" 
