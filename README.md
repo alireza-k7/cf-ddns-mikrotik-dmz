@@ -59,3 +59,11 @@ All done via the Cloudflare API using an **API Token** (not the global API key).
 :local cloudflareAuthToken "API_TOKEN"
 :local cloudflareRecordId "Your_record_ID" 
 :local domain "router.example.com"
+```
+
+## ✍️ Author
+
+**Alireza Kazerouni**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alirezakazerouni)  
+- 📧 alirezakazerouni@gmail.com  
+- 🐙 [GitHub](https://github.com/alireza-k7)
